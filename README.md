@@ -1,5 +1,11 @@
 # Agaya Özel Python Rehberi'ne hoşgeldin kral...
 
+## Eğer python da çok yeniysen şu oynatma listesine bi bak derim:
+
+https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+
+Biliyorum çok uzun. Ama en azından 26. videoya kadar izlemen sana temelleri krallar gibi attıracaktır.
+
 ## Bu repo'da sana python öğretmekten çok senin yeteneklerini sınayacağım ^_^
 
 - **Görev 1:** Konsolda çalışan hesap makinesi yapma
