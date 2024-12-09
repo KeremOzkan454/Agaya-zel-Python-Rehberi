@@ -11,31 +11,31 @@ Biliyorum çok uzun. Ama en azından 26. videoya kadar izlemen sana temelleri kr
 
 ## Bu repo'da sana python öğretmekten çok senin yeteneklerini sınayacağım ^_^
 
-- **Görev 1:** Merhaba Dünya!
+- **Görev 1:** [Merhaba Dünya!](/Sınavlar/Gorev1.py)
 ---------------------------
 
-- **Görev 2:** Basit Matematik
+- **Görev 2:** [Basit Matematik](/Sınavlar/Gorev2.py)
 ----------------------------------
 
-- **Görev 3:** Parola Kontrolü
+- **Görev 3:** [Parola Kontrolü](/Sınavlar/Gorev3.py)
 --------------------------------------
 
-- **Görev 4:** Sayı Tahmin Oyunu
+- **Görev 4:** [Sayı Tahmin Oyunu](/Sınavlar/Gorev4.py)
 ----------------------------------
 
-- **Görev 5:** Liste Düzenleyici
+- **Görev 5:** [Liste Düzenleyici](/Sınavlar/Gorev5.py)
 -----------------------------------
 
-- **Görev 6:** Hesap Makinesi
+- **Görev 6:** [Hesap Makinesi](/Sınavlar/Gorev6.py)
 --------------------------------
 
-- **Görev 7:** Dosya İşlemleri
+- **Görev 7:** [Dosya İşlemleri](/Sınavlar/Gorev7.py)
 ------------------------------------
 
-- **Görev 8:** Basit Bir Kütüphane uygulaması
+- **Görev 8:** [Basit Bir Kütüphane kodlama](/Sınavlar/Gorev8.py)
 ------------------------------------------
 
-- **Görev 9:** ***Mini Proje:*** To-Do List Uygulaması
+- **Görev 9:** ***Mini Proje:*** [To-Do List Uygulaması](/Sınavlar/Gorev9.py)
 ------------------------------------------------
 
 
