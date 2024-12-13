@@ -2,7 +2,7 @@
 
 ## Eğer python da çok yeniysen şu oynatma listesine bi bak derim:
 
-https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+[Yakın Kampüs - Python Dersleri(Türkçe)](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 
 Biliyorum çok uzun. Ama en azından 26. videoya kadar izlemen sana temelleri krallar gibi attıracaktır.
 
